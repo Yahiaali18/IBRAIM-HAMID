@@ -1,0 +1,29 @@
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+  background-color: #f4f7f6;
+  color: #222222;
+}
+
+h1, h2 {
+  color: #2c5e4f;
+}
+
+/* Keeps this image centered at any screen width */
+.centered-photo {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+img {
+  border-radius: 8px;
+  margin-right: 10px;
+  max-width: 100%;
+}
